@@ -28,8 +28,20 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 </ul>
 
 <h2>Courses</h2>
-<li>oki [ladne](https://duckduckgo.com)</li>
+<li>Udemy - Complete Certified Tester ISTQB Foundation Level (CTFL) 2020</li>
+
 <h2>Books</h2>
+
+<ul>
+  <li>A. Roman - Testowanie i jakość oprogramowania</li>
+  <li>R. Smilgin - Zawód tester. Od decyzji do pierwszych kroków w pracy</li>
+  <li>R. Patton - Testowanie Oprogramowania</li>
+  <li>K. Zmitrowicz - Jakość projektów informatycznych. Rozwój i testowanie oprogramowania</li>
+  <li>L. Madeyski M. Ochodek - Inżynieria oprogramowania</li>
+  <li>R. Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących</li>
+  <li>Reporting bugs</li>
+  <li>Creating use cases</li>
+</ul>
 
 <h2>Groups on Facebook</h2>
 
