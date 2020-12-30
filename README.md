@@ -5,18 +5,32 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 
 <h2>Tools</h2>
 <ul>
-<li>mySQL, SQL Developer</li>
-<li>HTML5, CSS3</li>
-<li>Java, Python</li>
-<li>Draw.io</li>
-<li>Trello</li>
-<li>Github</li>
-<li>Adobe Photoshop</li>
+  <li>Excel</li>
+  <li>Trello</li>
+  <li>Github</li>
+  <li>Adobe Photoshop</li>
+  <li>mySQL, SQL Developer</li>
+  <li>Draw.io</li>
+  <li>StarUML</li>
+  <li>PowerBI</li>
 </ul>
 
 <h2>Tech skills</h2>
+<ul>
+  <li>SQL</li>
+  <li>HTML5, CSS3</li>
+  <li>Java, Python</li>
+  <li>DevTools</li>
+  <li>Waterfall Model</li>
+  <li>Creating test cases</li>
+  <li>Reporting bugs</li>
+  <li>Creating use cases</li>
+</ul>
 
 <h2>Courses</h2>
+<ul>
+  <li>[Complete Certified Tester ISTQB Foundation Level (CTFL) 2020](https://www.udemy.com/course/istqb-certified-tester-foundation-level-ctfl/)</li>
+</ul>
 
 <h2>Books</h2>
 
