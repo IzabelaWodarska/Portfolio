@@ -28,9 +28,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 </ul>
 
 <h2>Courses</h2>
-[Complete Certified Tester ISTQB Foundation Level 2020](https://www.udemy.com/course/istqb-certified-tester-foundation-level-ctfl).
-
-
+<li>oki [ladne](https://duckduckgo.com)</li>
 <h2>Books</h2>
 
 <h2>Groups on Facebook</h2>
