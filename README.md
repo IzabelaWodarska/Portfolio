@@ -70,8 +70,6 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>KMD - Rynek pracy kobiet</li>
 </ul>
 
-<h2>Articles</h2>
-
 <h2>My test case examples</h2>
 
 <h2>My bug reports</h2>
