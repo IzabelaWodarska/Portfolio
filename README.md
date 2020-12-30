@@ -4,6 +4,15 @@
 My name is Izabela Wódarska. I'm in my last year of engineering studies and few months ago I have started to interest of software testing so I devoted my Diploma Thesis about Software Testing Process. I develop my skills through literature, ISTQB syllabus, free online tasks, webinars, social media groups and mentoring. I am very committed and i'm willing to develop my skills in this field.
 
 <h2>Tools</h2>
+<ul>
+<li>mySQL, SQL Developer</li>
+<li>HTML5, CSS3</li>
+<li>Java, Python</li>
+<li>Draw.io</li>
+<li>Trello</li>
+<li>Github</li>
+<li>Adobe Photoshop</li>
+</ul>
 
 <h2>Tech skills</h2>
 
