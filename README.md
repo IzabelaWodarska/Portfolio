@@ -31,7 +31,6 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <li>Udemy - Complete Certified Tester ISTQB Foundation Level (CTFL) 2020</li>
 
 <h2>Books</h2>
-
 <ul>
   <li>A. Roman - Testowanie i jakość oprogramowania</li>
   <li>R. Smilgin - Zawód tester. Od decyzji do pierwszych kroków w pracy</li>
@@ -39,11 +38,17 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>K. Zmitrowicz - Jakość projektów informatycznych. Rozwój i testowanie oprogramowania</li>
   <li>L. Madeyski M. Ochodek - Inżynieria oprogramowania</li>
   <li>R. Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących</li>
-  <li>Reporting bugs</li>
-  <li>Creating use cases</li>
 </ul>
 
 <h2>Groups on Facebook</h2>
+<ul>
+  <li>Tester Oprogramowania - wsparcie na starcie</li>
+  <li>Cherry-IT: Zostań Testerem</li>
+  <li>Testowanie Oprogramowania</li>
+  <li>ISTQB - egzaminy, pytania, testy</li>
+  <li>Girls Who Test community</li>
+  <li>Girls who sql</li>
+</ul>
 
 <h2>Recommended blogs</h2>
 
