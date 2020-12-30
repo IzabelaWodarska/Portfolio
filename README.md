@@ -50,9 +50,25 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Girls who sql</li>
 </ul>
 
-<h2>Recommended blogs</h2>
-
+<h2>FunPages and Blogs</h2>
+<ul>
+  <li>Cherry-IT</li>
+  <li>Kobiety do kodu</li>
+  <li>Gildia Testerów</li>
+  <li>testerzy.pl</li>
+  <li>testerka.pl</li>
+  <li>Geek Girls Carrots.pl</li>
+  <li>BBC Learning English - 6 Minute English</li>
+  </ul>
+  
 <h2>Webinars</h2>
+<ul>
+  <li>QA Tester Meetup Poland -Techniki testowania oparte na specyfikacji, </li>
+  <li>Fabryka testów - Trzy rodzaje testów</li>
+  <li>Testuj.pl - Praca testera w praktyce </li>
+  <li>Future Collars - Błędy, defekty, awarie</li>
+  <li>KMD - Rynek pracy kobiet</li>
+</ul>
 
 <h2>Articles</h2>
 
