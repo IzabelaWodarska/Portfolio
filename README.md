@@ -6,14 +6,21 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <h2>Tools</h2>
 <ul>
   <li>Excel</li>
+  <li>Slack</li>
+  <li>Jira</li>
+  <li>TestLink</li>
+  <li>Postman</li>
   <li>Trello</li>
   <li>Github</li>
   <li>Adobe Photoshop</li>
-  <li>mySQL, SQL Developer</li>
+  <li>MySQL, SQL Developer</li>
   <li>Draw.io</li>
   <li>StarUML</li>
   <li>PowerBI</li>
 </ul>
+
+<h2>Other Tools</h2>
+<ul> </ul>
 
 <h2>Tech skills</h2>
 <ul>
