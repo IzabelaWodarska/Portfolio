@@ -3,7 +3,7 @@
 <h2>About me</h2>
 My name is Izabela Wódarska. I'm in my last year of engineering studies and few months ago I have started to interest of software testing so I devoted my Diploma Thesis about Software Testing Process. I develop my skills through literature, ISTQB syllabus, free online tasks, webinars, social media groups and mentoring. I am very committed and i'm willing to develop my skills in this field.
 
-<h2>Tools</h2>
+<h2>Testing Tools</h2>
 <ul>
   <li>Excel</li>
   <li>Slack</li>
@@ -12,15 +12,16 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Postman</li>
   <li>Trello</li>
   <li>Github</li>
-  <li>Adobe Photoshop</li>
+</ul>
+
+<h2>Other Tools</h2>
+<ul>   
+  <li>Adobe Photoshop, Illustrator, InDesign, Animate, Bridge</li>
   <li>MySQL, SQL Developer</li>
   <li>Draw.io</li>
   <li>StarUML</li>
   <li>PowerBI</li>
 </ul>
-
-<h2>Other Tools</h2>
-<ul> </ul>
 
 <h2>Tech skills</h2>
 <ul>
@@ -28,9 +29,9 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>HTML5, CSS3</li>
   <li>Java, Python</li>
   <li>DevTools</li>
-  <li>Waterfall Model</li>
-  <li>Creating test cases</li>
+  <li>Theory of SDLC methodologies</li>
   <li>Reporting bugs</li>
+  <li>Creating test cases</li>
   <li>Creating use cases</li>
 </ul>
 
@@ -85,3 +86,10 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <h2>My examples of diagrams and decision tables</h2>
 
 <h2>My projects</h2>
+<ul>
+  <li>Diploma Thesis - Software testing process on the example of an IT system</li>
+  <li>Design and implementation of the university Chatbot - </li>
+  <li>Cherry-IT: crowdtesting project</li>
+  <li>uTest</li>
+  <li>Mentoring - Damian S</li>
+</ul>
