@@ -48,6 +48,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>ISTQB - egzaminy, pytania, testy</li>
   <li>Girls Who Test community</li>
   <li>Girls who sql</li>
+  <li>Coffee Mornings - Ladies Talk! (English Lessons)</li>
 </ul>
 
 <h2>FunPages and Blogs</h2>
@@ -67,7 +68,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Fabryka testów - Trzy rodzaje testów</li>
   <li>Testuj.pl - Praca testera w praktyce </li>
   <li>Future Collars - Błędy, defekty, awarie</li>
-  <li>KMD - Rynek pracy kobiet</li>
+  <li>Bartosz Kita - Testowanie REST API</li>
 </ul>
 
 <h2>My test case examples</h2>
