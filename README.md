@@ -67,6 +67,8 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>testerzy.pl</li>
   <li>testerka.pl</li>
   <li>Geek Girls Carrots.pl</li>
+  <li>Toniebug.pl</li>
+  <li>Wyszkolewas.com.pl</li>
   <li>BBC Learning English - 6 Minute English</li>
   </ul>
   
