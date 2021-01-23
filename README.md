@@ -62,14 +62,15 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <h2>FunPages and Blogs</h2>
 <ul>
   <li>Cherry-IT</li>
-  <li>Kobiety do kodu</li>
+  <li>Wyszkolewas.com.pl</li>
   <li>Gildia Testerów</li>
   <li>testerzy.pl</li>
   <li>testerka.pl</li>
-  <li>Geek Girls Carrots.pl</li>
+  <li></li>
   <li>Toniebug.pl</li>
   <li>Wyszkolewas.com.pl</li>
-  <li>BBC Learning English - 6 Minute English</li>
+  <li>qamadness.com/blog</li>
+  <li>tsh.io/blog</li>
   </ul>
   
 <h2>Webinars</h2>
@@ -92,6 +93,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Diploma Thesis - Software testing process on the example of an IT system</li>
   <li>Design and implementation of the university Chatbot - </li>
   <li>Cherry-IT: crowdtesting project</li>
+  <li>intive Patronage: QA</li>
   <li>uTest</li>
   <li>Mentoring - Damian S</li>
 </ul>
