@@ -80,6 +80,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Testuj.pl - Praca testera w praktyce </li>
   <li>Future Collars - Błędy, defekty, awarie</li>
   <li>Bartosz Kita - Testowanie REST API</li>
+  <li> - Testowanie aplikacji mobilnych</li>
 </ul>
 
 <h2>My test case examples</h2>
