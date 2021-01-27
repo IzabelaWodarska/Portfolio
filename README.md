@@ -3,13 +3,10 @@
 <h2>About me</h2>
 My name is Izabela Wódarska. I'm in my last year of engineering studies and few months ago I have started to interest of software testing so I devoted my Diploma Thesis about Software Testing Process. I develop my skills through literature, ISTQB syllabus, free online tasks, webinars, social media groups and mentoring. I am very committed and i'm willing to develop my skills in this field.
 
-<h2>Testing Tools</h2>
+<h2>Tools</h2>
 <ul>
   <li>Excel</li>
   <li>Slack</li>
-  <li>Jira</li>
-  <li>TestLink</li>
-  <li>Postman</li>
   <li>Trello</li>
   <li>Github</li>
 </ul>
@@ -18,21 +15,22 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <ul>   
   <li>Adobe Photoshop, Illustrator, InDesign, Animate, Bridge</li>
   <li>MySQL, SQL Developer</li>
+  <li>Eclipse</li>
+  <li>Brackets</li>
   <li>Draw.io</li>
   <li>StarUML</li>
   <li>PowerBI</li>
 </ul>
 
-<h2>Tech skills</h2>
+<h2>Skills</h2>
 <ul>
   <li>SQL</li>
   <li>HTML5, CSS3</li>
   <li>Java, Python</li>
   <li>DevTools</li>
-  <li>Theory of SDLC methodologies</li>
+  <li>Waterfall, SCRUM</li>
   <li>Reporting bugs</li>
   <li>Creating test cases</li>
-  <li>Creating use cases</li>
 </ul>
 
 <h2>Courses</h2>
@@ -66,35 +64,31 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Gildia Testerów</li>
   <li>testerzy.pl</li>
   <li>testerka.pl</li>
-  <li></li>
   <li>Toniebug.pl</li>
-  <li>Wyszkolewas.com.pl</li>
+  <li>devenv.pl</li>
   <li>qamadness.com/blog</li>
   <li>tsh.io/blog</li>
   </ul>
   
 <h2>Webinars</h2>
 <ul>
-  <li>QA Tester Meetup Poland -Techniki testowania oparte na specyfikacji, </li>
+  <li>QA Tester Meetup Poland - Techniki testowania oparte na specyfikacji, </li>
   <li>Fabryka testów - Trzy rodzaje testów</li>
   <li>Testuj.pl - Praca testera w praktyce </li>
   <li>Future Collars - Błędy, defekty, awarie</li>
   <li>Bartosz Kita - Testowanie REST API</li>
-  <li> - Testowanie aplikacji mobilnych</li>
+  <li>Tomasz Stelmach - Testowanie aplikacji mobilnych</li>
+  <li>KMD Kick-start your career in IT</li>
 </ul>
 
-<h2>My test case examples</h2>
+<h2>Test Cases</h2>
 
-<h2>My bug reports</h2>
-
-<h2>My examples of diagrams and decision tables</h2>
+<h2>Bugs</h2>
 
 <h2>My projects</h2>
 <ul>
-  <li>Diploma Thesis - Software testing process on the example of an IT system</li>
-  <li>Design and implementation of the university Chatbot - </li>
-  <li>Cherry-IT: crowdtesting project</li>
-  <li>intive Patronage: QA</li>
-  <li>uTest</li>
-  <li>Mentoring - Damian S</li>
+  <li>Diploma Thesis: Software testing process on the example of an IT system - Define the main assumptions and requirements of the system based on users stories, develop test cases based on use cases</li>
+  <li>Design and implementation of the university Chatbot - Develop conversation paths, planning test scenarios</li>
+  <li>Cherry-IT: Crowdtesting project</li>
+  <li>Mentoring - Damian Stoltmann (Facebook group Testowanie oprogramowania: Mentoring)</li>
 </ul>
