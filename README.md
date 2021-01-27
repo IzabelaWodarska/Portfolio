@@ -8,6 +8,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Excel</li>
   <li>Slack</li>
   <li>Trello</li>
+  <li>DevTools</li>
   <li>Github</li>
 </ul>
 
@@ -27,7 +28,6 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>SQL</li>
   <li>HTML5, CSS3</li>
   <li>Java, Python</li>
-  <li>DevTools</li>
   <li>Waterfall, SCRUM</li>
   <li>Reporting bugs</li>
   <li>Creating test cases</li>
