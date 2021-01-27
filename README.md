@@ -57,7 +57,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Coffee Mornings - Ladies Talk! (English Lessons)</li>
 </ul>
 
-<h2>FunPages and Blogs</h2>
+<h2>Blogs</h2>
 <ul>
   <li>Cherry-IT</li>
   <li>Wyszkolewas.com.pl</li>
@@ -78,7 +78,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Future Collars - Błędy, defekty, awarie</li>
   <li>Bartosz Kita - Testowanie REST API</li>
   <li>Tomasz Stelmach - Testowanie aplikacji mobilnych</li>
-  <li>KMD Kick-start your career in IT</li>
+  <li>KMD Kick - start your career in IT</li>
 </ul>
 
 <h2>Test Cases</h2>
