@@ -85,6 +85,8 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 
 <h2>Bugs</h2>
 
+<h2>DevTools Exercises</h2>
+
 <h2>My projects</h2>
 <ul>
   <li>Diploma Thesis: Software testing process on the example of an IT system - Define the main assumptions and requirements of the system based on users stories, develop test cases based on use cases</li>
