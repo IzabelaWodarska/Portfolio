@@ -102,8 +102,8 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <h2>Test Cases</h2>
 
 <h2>Bugs</h2>
+<li>https://drive.google.com/file/d/1I-TVexIyPqXe5wdk--jsJhk-_jfJLuJQ/view?usp=sharing</li>
 
 <h2>DevTools Exercises</h2>
 
 <h2>My projects</h2>
-For more information, see the [okkk](https://drive.google.com/file/d/1I-TVexIyPqXe5wdk--jsJhk-_jfJLuJQ/view?usp=sharing)
