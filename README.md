@@ -11,7 +11,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Trello</li>
   <li>DevTools</li>
   <li>Postman</li>
-  <li>Github</li>
+  <li>Git&Github</li>
 </ul>
 
 <h2>Other Tools</h2>
@@ -39,7 +39,8 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 
 <h2>Courses</h2>
 <li>Udemy - Complete Certified Tester ISTQB Foundation Level (CTFL) 2020</li>
-<li>
+<li>Coding Bootcamp with Girls in Tech - Python</li>
+<li>Udemy - Git & Github: wszystko co powinieneś umieć w 2020</li>
 
 <h2>Helpful Books</h2>
 <ul>
