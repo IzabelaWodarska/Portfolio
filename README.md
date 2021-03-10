@@ -108,3 +108,6 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 
 <h2>My projects</h2>
 <li>https://drive.google.com/file/d/1XHRk0AYUoSPoS-H-viWiAL9feZrteio7/view?usp=sharing</li>
+
+<h2>Notes</h2>
+The links are not formatted because of defect on my site, eg. [testest](https://www.wp.pl/) not works.
