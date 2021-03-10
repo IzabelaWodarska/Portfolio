@@ -39,8 +39,9 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 
 <h2>Courses</h2>
 <li>Udemy - Complete Certified Tester ISTQB Foundation Level (CTFL) 2020</li>
+<li>
 
-<h2>Books</h2>
+<h2>Helpful Books</h2>
 <ul>
   <li>A. Roman - Testowanie i jakość oprogramowania</li>
   <li>R. Smilgin - Zawód tester. Od decyzji do pierwszych kroków w pracy</li>
@@ -88,13 +89,14 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>KMD Kick - start your career in IT</li>
 </ul>
 
-<h2>Initiatives - "I've tried"</h2>
+<h2>"I've tried"</h2>
 <ul>
   <li>Cherry-IT - Polish crowdtesting project by Anna Czyrko</li>
   <li>Mentoring - Damian Stoltmann (Testowanie oprogramowania Facebook group)</li>
   <li>Application to the DARE IT Mentoring program (Autumn 2021)</li>
   <li>Diploma Thesis - Software testing process on the example of an IT system</li>
   <li>Design of the university Chatbot - Develop conversation paths, planning test scenarios</li>
+  <li>uTest Academy</li>
 </ul>
 
 <h2>Test Cases</h2>
@@ -104,6 +106,4 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <h2>DevTools Exercises</h2>
 
 <h2>My projects</h2>
-<ul>
-  
-</ul>
+
