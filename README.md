@@ -10,7 +10,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Slack</li>
   <li>Trello</li>
   <li>DevTools</li>
-  <li><Postman</li>
+  <li>Postman</li>
   <li>Github</li>
 </ul>
 
