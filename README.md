@@ -89,7 +89,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>KMD Kick - start your career in IT</li>
 </ul>
 
-<h2>"I've tried"</h2>
+<h2>I try to be proactive</h2>
 <ul>
   <li>Cherry-IT - Polish crowdtesting project by Anna Czyrko</li>
   <li>Mentoring - Damian Stoltmann (Testowanie oprogramowania Facebook group)</li>
@@ -97,12 +97,14 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Diploma Thesis - Software testing process on the example of an IT system</li>
   <li>Design of the university Chatbot - Develop conversation paths, planning test scenarios</li>
   <li>uTest Academy</li>
+  <li>https://www.linkedin.com/in/wodarska/</li>
 </ul>
 
 <h2>Test Cases</h2>
 
 <h2>Bugs</h2>
-<li>https://drive.google.com/file/d/1I-TVexIyPqXe5wdk--jsJhk-_jfJLuJQ/view?usp=sharing</li>
+<li>For Pole4all.pl site: https://drive.google.com/file/d/1I-TVexIyPqXe5wdk--jsJhk-_jfJLuJQ/view?usp=sharing</li>
+<li>For Efektum.pl site: https://drive.google.com/file/d/12TdqMJd3Ug1usvjGpFxjFn0lrVkt-XYX/view?usp=sharing</li>
 
 <h2>DevTools Exercises</h2>
 
