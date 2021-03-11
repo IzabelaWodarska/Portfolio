@@ -1,7 +1,7 @@
 # Portfolio
 
 <h2>About me</h2>
-My name is Izabela Wódarska. I'm in my last year of engineering studies and few months ago I have started to interest of software testing so I devoted my Diploma Thesis about Software Testing Process. I develop my skills through literature, ISTQB syllabus, free online tasks, webinars, social media groups and mentoring. I am very committed and i'm willing to develop my skills in this field. My hard work and persistence led me here.
+My name is Izabela Wódarska. I'm in my last year of engineering studies and few months ago I have started to interest of software testing so I devoted my Diploma Thesis about Software Testing Process. I develop my skills through literature, ISTQB syllabus, free online tasks, webinars, social media groups and mentoring. I am very committed and i'm willing to develop my skills in this field.
 
 <h2>Tools</h2>
 <ul>
@@ -92,12 +92,12 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 
 <h2>I try to be proactive</h2>
 <ul>
-  <li>Cherry-IT - Polish crowdtesting project by Anna Czyrko</li>
+  <li>Cherry-IT - polish crowdtesting project by Anna Czyrko</li>
   <li>Mentoring - Damian Stoltmann (Testowanie oprogramowania Facebook group)</li>
+  <li>Let's solve IT - online meeting with expert Katarzyna Pietryga</li>
   <li>Application to the DARE IT Mentoring program (Autumn 2021)</li>
   <li>Diploma Thesis - Software testing process on the example of an IT system</li>
   <li>Design of the university Chatbot - Develop conversation paths, planning test scenarios</li>
-  <li>uTest Academy</li>
   <li>https://www.linkedin.com/in/wodarska/</li>
 </ul>
 
