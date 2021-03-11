@@ -77,7 +77,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>qa-courses.com/blog</li>
   </ul>
   
-<h2>Webinars that built my knowledge</h2>
+<h2>Selected webinars</h2>
 <ul>
   <li>QA Tester Meetup Poland - Techniki testowania oparte na specyfikacji, </li>
   <li>Fabryka testów - Trzy rodzaje testów</li>
