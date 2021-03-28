@@ -40,6 +40,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <h2>Courses</h2>
 <li>Udemy - Complete Certified Tester ISTQB Foundation Level (CTFL) 2020</li>
 <li>Coding Bootcamp with Girls in Tech - Python</li>
+<li>B2 Upper Intermediate English online Course - Hiperkursy.pl</li>
 <li>Udemy - Git & Github: wszystko co powinieneś umieć w 2020</li>
 
 <h2>Helpful Books</h2>
@@ -50,9 +51,10 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>K. Zmitrowicz - Jakość projektów informatycznych. Rozwój i testowanie oprogramowania</li>
   <li>L. Madeyski M. Ochodek - Inżynieria oprogramowania</li>
   <li>R. Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących</li>
+  <li>Edward de Bono - Myślenie lateralne. Idee na przekór schematom</li>
 </ul>
 
-<h2>Groups on Facebook</h2>
+<h2>Social media groups</h2>
 <ul>
   <li>Tester Oprogramowania - wsparcie na starcie</li>
   <li>Cherry-IT: Zostań Testerem</li>
@@ -63,7 +65,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Coffee Mornings - Ladies Talk! (English Lessons)</li>
 </ul>
 
-<h2>Helpful Blogs</h2>
+<h2>Fav Blogs</h2>
 <ul>
   <li>Cherry-IT</li>
   <li>Wyszkolewas.com.pl</li>
@@ -101,8 +103,17 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>https://www.linkedin.com/in/wodarska/</li>
 </ul>
 
+<h2>Articles about me</h2>
+<ul>
+  <li>https://testerzy.pl/baza-wiedzy/artykuly/projektowanie-testow-z-przypadkow-uzycia</li>
+</ul> 
+  
 <h2>Test Cases</h2>
-
+<ul>
+  <li>Zalando word</li>
+  <li>Gherkin</li>
+</ul>
+  
 <h2>Bugs</h2>
 <li>For Pole4all.pl site: https://drive.google.com/file/d/1I-TVexIyPqXe5wdk--jsJhk-_jfJLuJQ/view?usp=sharing</li>
 <li>For Efektum.pl site: https://drive.google.com/file/d/12TdqMJd3Ug1usvjGpFxjFn0lrVkt-XYX/view?usp=sharing</li>
@@ -114,6 +125,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
 <li>place for Cherry IT</li>
 <li>place for Chatbot</li>
+<li>Postman word?></li>
 
 <h2>Notes</h2>
 The links are not formatted because of defect on my site, eg. [testest](https://www.wp.pl/) not works.
