@@ -1,7 +1,7 @@
 # Portfolio
 
 <h2>About me</h2>
-My name is Izabela Wódarska. I'm in my last year of engineering studies and few months ago I have started to interest of software testing so I devoted my Diploma Thesis about Software Testing Process. I develop my skills through literature, ISTQB syllabus, free online tasks, webinars, social media groups and mentoring. I am very committed and i'm willing to develop my skills in this field.
+My name is Izabela Wódarska. I'm in my last year of engineering studies and few months ago I have started to interest in software testing so I devoted my Diploma Thesis about Software Testing Process, so I've learned a lot. I develop my skills through literature, ISTQB syllabus, free online tasks, webinars, social media groups and mentoring. Currently, I am building my portfolio and actively preparing for the profession by participating in a polish crowdtesting project. I am very committed and willing to develop my skills in this field.
 
 <h2>Tools</h2>
 <ul>
