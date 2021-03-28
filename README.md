@@ -35,6 +35,10 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Waterfall, SCRUM</li>
   <li>Reporting bugs</li>
   <li>Creating test cases</li>
+  
+  <li>Emotional intelligence</li>
+  <li>Critical thinking</li>
+  <li>Self-organization</li>
 </ul>
 
 <h2>Courses</h2>
