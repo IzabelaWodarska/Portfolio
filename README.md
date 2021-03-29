@@ -46,6 +46,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <li>Coding Bootcamp with Girls in Tech - Python</li>
 <li>B2 Upper Intermediate English online Course - Hiperkursy.pl</li>
 <li>Udemy - Git & Github: wszystko co powinieneś umieć w 2020</li>
+<li>Atlassian Jira and Scrum Fundamentals for Beginners 2021</li>
 
 <h2>Helpful Books</h2>
 <ul>
