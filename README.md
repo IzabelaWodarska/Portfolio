@@ -115,15 +115,20 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 </ul>
   
 <h2>Bugs</h2>
-<li>For Pole4all.pl site: https://drive.google.com/file/d/1I-TVexIyPqXe5wdk--jsJhk-_jfJLuJQ/view?usp=sharing</li>
-<li>For Efektum.pl site: https://drive.google.com/file/d/12TdqMJd3Ug1usvjGpFxjFn0lrVkt-XYX/view?usp=sharing</li>
+<ul>
+  <li>For Pole4all.pl site: https://drive.google.com/file/d/1I-TVexIyPqXe5wdk--jsJhk-_jfJLuJQ/view?usp=sharing</li>
+  <li>For Efektum.pl site: https://drive.google.com/file/d/12TdqMJd3Ug1usvjGpFxjFn0lrVkt-XYX/view?usp=sharing</li>
+  <li>Mr. Buggy</li>
+</ul>
 
 <h2>Other projects</h2>
-<li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
-<li>Cherry IT [in progress]</li>
-<li>University Chatbot mindmap [in progress]</li>
-<li>Postman</li>
-<li>DevTools Exercises - https://drive.google.com/file/d/1uMLt6MsfgsB_SYC-sgbjeCsnP0bo8h-O/view?usp=sharing</li>
+<ul>
+  <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
+  <li>Cherry IT [in progress]</li>
+  <li>University Chatbot mindmap [in progress]</li>
+  <li>Postman</li>
+  <li>DevTools Exercises - https://drive.google.com/file/d/1uMLt6MsfgsB_SYC-sgbjeCsnP0bo8h-O/view?usp=sharing</li>
+</ul>
 
 <h2>Notes</h2>
 The links are not formatted because of defect on my site, eg. [testest](https://www.wp.pl/) not works.
