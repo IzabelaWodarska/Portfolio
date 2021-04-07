@@ -111,7 +111,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 <ul>
   <li>Zalando word[inprogess]</li>
   <li>Gherkin[inprogess]</li>
-  <li>OLX[inprogess]</li>
+  <li>OLX App - https://drive.google.com/file/d/18tPvnR9CFJ4eRIkWwbD89-a58bquJmel/view?usp=sharing</li>
 </ul>
   
 <h2>Bugs</h2>
@@ -120,7 +120,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 
 <h2>DevTools Exercises</h2>
 
-<h2>My projects</h2>
+<h2>Other projects</h2>
 <li>Part of my diploma thesis: https://drive.google.com/file/d/1XHRk0AYUoSPoS-H-viWiAL9feZrteio7/view?usp=sharing</li>
 <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
 <li>place for Cherry IT [in progress]</li>
