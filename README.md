@@ -109,9 +109,9 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
   
 <h2>Test Cases</h2>
 <ul>
-  <li>Zalando word</li>
-  <li>Gherkin</li>
-  <li>OLX</li>
+  <li>Zalando word[inprogess]</li>
+  <li>Gherkin[inprogess]</li>
+  <li>OLX[inprogess]</li>
 </ul>
   
 <h2>Bugs</h2>
@@ -123,9 +123,9 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 <h2>My projects</h2>
 <li>Part of my diploma thesis: https://drive.google.com/file/d/1XHRk0AYUoSPoS-H-viWiAL9feZrteio7/view?usp=sharing</li>
 <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
-<li>place for Cherry IT</li>
-<li>place for Chatbot mindmap</li>
-<li>Postman</li>
+<li>place for Cherry IT[inprogess]</li>
+<li>place for Chatbot mindmap[inprogess]</li>
+<li>Postman[inprogess]</li>
 
 <h2>Notes</h2>
 The links are not formatted because of defect on my site, eg. [testest](https://www.wp.pl/) not works.
