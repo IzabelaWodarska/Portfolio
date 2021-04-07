@@ -109,8 +109,8 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
   
 <h2>Test Cases</h2>
 <ul>
-  <li>Zalando word[inprogess]</li>
-  <li>Gherkin[inprogess]</li>
+  <li>Zalando Lounge [in progress]</li>
+  <li>Gherkin syntax scenario - PKP example - https://drive.google.com/file/d/1Jjfk0WuWgl2E9K40MtpJE2AdKKmy3Ji0/view?usp=sharing</li>
   <li>OLX.pl Mobile App - https://drive.google.com/file/d/18tPvnR9CFJ4eRIkWwbD89-a58bquJmel/view?usp=sharing</li>
 </ul>
   
@@ -119,7 +119,6 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 <li>For Efektum.pl site: https://drive.google.com/file/d/12TdqMJd3Ug1usvjGpFxjFn0lrVkt-XYX/view?usp=sharing</li>
 
 <h2>Other projects</h2>
-<li>Part of my diploma thesis: https://drive.google.com/file/d/1XHRk0AYUoSPoS-H-viWiAL9feZrteio7/view?usp=sharing</li>
 <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
 <li>place for Cherry IT [in progress]</li>
 <li>place for Chatbot mindmap</li>
