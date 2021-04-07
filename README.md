@@ -111,14 +111,12 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 <ul>
   <li>Zalando word[inprogess]</li>
   <li>Gherkin[inprogess]</li>
-  <li>OLX App - https://drive.google.com/file/d/18tPvnR9CFJ4eRIkWwbD89-a58bquJmel/view?usp=sharing</li>
+  <li>OLX.pl Mobile App - https://drive.google.com/file/d/18tPvnR9CFJ4eRIkWwbD89-a58bquJmel/view?usp=sharing</li>
 </ul>
   
 <h2>Bugs</h2>
 <li>For Pole4all.pl site: https://drive.google.com/file/d/1I-TVexIyPqXe5wdk--jsJhk-_jfJLuJQ/view?usp=sharing</li>
 <li>For Efektum.pl site: https://drive.google.com/file/d/12TdqMJd3Ug1usvjGpFxjFn0lrVkt-XYX/view?usp=sharing</li>
-
-<h2>DevTools Exercises</h2>
 
 <h2>Other projects</h2>
 <li>Part of my diploma thesis: https://drive.google.com/file/d/1XHRk0AYUoSPoS-H-viWiAL9feZrteio7/view?usp=sharing</li>
@@ -126,6 +124,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 <li>place for Cherry IT [in progress]</li>
 <li>place for Chatbot mindmap</li>
 <li>Postman</li>
+<li>DevTools Exercises</li>
 
 <h2>Notes</h2>
 The links are not formatted because of defect on my site, eg. [testest](https://www.wp.pl/) not works.
