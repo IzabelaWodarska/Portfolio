@@ -1,7 +1,7 @@
 # Portfolio
 
 <h2>About me</h2>
-My name is Izabela Wódarska. I'm in my last year of engineering studies and few months ago I have started to interest in software testing so I devoted my Diploma Thesis about Software Testing Process, so I've learned a lot. I develop my skills through literature, ISTQB syllabus, free online tasks, webinars, social media groups and mentoring. Currently, I am building my portfolio and actively preparing for the profession by participating in a polish crowdtesting project. I am very committed and willing to develop my skills in this field.
+My name is Izabela Wódarska. I'm in my last year of engineering studies and a few months ago I have started to be interested in software testing. My Diploma Thesis focuses on Software Testing Process. I have been developing my skills through literature, ISTQB syllabus, free online tasks, webinars, social media groups and mentoring program. Currently, I am building my portfolio and actively preparing for the profession by participating in a polish crowdtesting project. I am very committed and willing to develop my skills in this field.
 
 <h2>Tools</h2>
 <ul>
@@ -35,10 +35,6 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
   <li>Waterfall, SCRUM</li>
   <li>Reporting bugs</li>
   <li>Creating test cases</li>
-  
-  <li>Emotional intelligence</li>
-  <li>Critical thinking</li>
-  <li>Self-organization</li>
 </ul>
 
 <h2>Courses</h2>
@@ -72,9 +68,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 
 <h2>Fav Blogs</h2>
 <ul>
-  <li>Cherry-IT</li>
   <li>Wyszkolewas.com.pl</li>
-  <li>Gildia Testerów</li>
   <li>testerzy.pl</li>
   <li>testerka.pl</li>
   <li>Toniebug.pl</li>
@@ -117,6 +111,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <ul>
   <li>Zalando word</li>
   <li>Gherkin</li>
+  <li>OLX</li>
 </ul>
   
 <h2>Bugs</h2>
@@ -129,8 +124,8 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and few
 <li>Part of my diploma thesis: https://drive.google.com/file/d/1XHRk0AYUoSPoS-H-viWiAL9feZrteio7/view?usp=sharing</li>
 <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
 <li>place for Cherry IT</li>
-<li>place for Chatbot</li>
-<li>Postman word?></li>
+<li>place for Chatbot mindmap</li>
+<li>Postman</li>
 
 <h2>Notes</h2>
 The links are not formatted because of defect on my site, eg. [testest](https://www.wp.pl/) not works.
