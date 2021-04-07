@@ -126,7 +126,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
   <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
   <li>Cherry IT [in progress]</li>
   <li>University Chatbot mindmap [in progress]</li>
-  <li>Postman</li>
+  <li>Postman exercises- https://documenter.getpostman.com/view/14403089/TzCTXjNX</li>
   <li>DevTools Exercises - https://drive.google.com/file/d/1uMLt6MsfgsB_SYC-sgbjeCsnP0bo8h-O/view?usp=sharing</li>
 </ul>
 
