@@ -40,7 +40,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 <h2>Courses</h2>
 <li>Udemy - Complete Certified Tester ISTQB Foundation Level (CTFL) 2020</li>
 <li>Coding Bootcamp with Girls in Tech - Python</li>
-<li>B2 Upper Intermediate English online Course - Hiperkursy.pl [inprogess]</li>
+<li>B2 Upper Intermediate English online Course - Hiperkursy.pl</li>
 <li>Udemy - Git & Github: wszystko co powinieneś umieć w 2020</li>
 <li>Atlassian Jira and Scrum Fundamentals for Beginners 2021</li>
 
@@ -123,9 +123,9 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 <h2>My projects</h2>
 <li>Part of my diploma thesis: https://drive.google.com/file/d/1XHRk0AYUoSPoS-H-viWiAL9feZrteio7/view?usp=sharing</li>
 <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
-<li>place for Cherry IT[inprogess]</li>
-<li>place for Chatbot mindmap[inprogess]</li>
-<li>Postman[inprogess]</li>
+<li>place for Cherry IT [in progress]</li>
+<li>place for Chatbot mindmap</li>
+<li>Postman</li>
 
 <h2>Notes</h2>
 The links are not formatted because of defect on my site, eg. [testest](https://www.wp.pl/) not works.
