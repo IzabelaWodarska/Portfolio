@@ -104,7 +104,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 
 <h2>Articles about me</h2>
 <ul>
-  <li>https://testerzy.pl/baza-wiedzy/artykuly/projektowanie-testow-z-przypadkow-uzycia</li>
+  <li>The editorial board supports students' diploma thesis, therefore, courtesy of Radosław Smilgin, an excerpt of my thesis has been published. I encourage to download: https://testerzy.pl/baza-wiedzy/artykuly/projektowanie-testow-z-przypadkow-uzycia</li>
 </ul> 
   
 <h2>Test Cases</h2>
