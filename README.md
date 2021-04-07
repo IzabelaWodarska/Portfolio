@@ -120,10 +120,10 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
 
 <h2>Other projects</h2>
 <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
-<li>place for Cherry IT [in progress]</li>
-<li>place for Chatbot mindmap</li>
+<li>Cherry IT [in progress]</li>
+<li>University Chatbot mindmap [in progress]</li>
 <li>Postman</li>
-<li>DevTools Exercises</li>
+<li>DevTools Exercises - https://drive.google.com/file/d/1uMLt6MsfgsB_SYC-sgbjeCsnP0bo8h-O/view?usp=sharing</li>
 
 <h2>Notes</h2>
 The links are not formatted because of defect on my site, eg. [testest](https://www.wp.pl/) not works.
