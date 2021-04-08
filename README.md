@@ -89,6 +89,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
   <li>Bartosz Kita - Testowanie REST API</li>
   <li>Tomasz Stelmach - Testowanie aplikacji mobilnych</li>
   <li>KMD Kick - start your career in IT</li>
+  <li>Warszawskie Dni Informatyki 11/12.12.20</li>
 </ul>
 
 <h2>I try to be proactive</h2>
@@ -116,18 +117,19 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
   
 <h2>Bugs</h2>
 <ul>
-  <li>For Pole4all.pl site: https://drive.google.com/file/d/1I-TVexIyPqXe5wdk--jsJhk-_jfJLuJQ/view?usp=sharing</li>
-  <li>For Efektum.pl site: https://drive.google.com/file/d/12TdqMJd3Ug1usvjGpFxjFn0lrVkt-XYX/view?usp=sharing</li>
+  <li>For Pole4all.pl site: https://drive.google.com/file/d/1cSQbcDGumsNxTE80wrS-qNUJpb-3uSQC/view?usp=sharing</li>
+  <li>For Efektum.pl site: https://drive.google.com/file/d/151iUzLBkvUSINl2DG3GYYh-pysAQBIGZ/view?usp=sharing</li>
   <li>Mr. Buggy</li>
 </ul>
 
 <h2>Other projects</h2>
 <ul>
   <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
+  <li>SQL - </li>
   <li>Cherry IT [in progress]</li>
   <li>University Chatbot mindmap [in progress]</li>
-  <li>Postman exercises- https://documenter.getpostman.com/view/14403089/TzCTXjNX</li>
-  <li>DevTools Exercises - https://drive.google.com/file/d/1uMLt6MsfgsB_SYC-sgbjeCsnP0bo8h-O/view?usp=sharing</li>
+  <li>Postman exercises - https://documenter.getpostman.com/view/14403089/TzCTXjNX I have also trained on Trello REST API</li>
+  <li>DevTools exercises - https://drive.google.com/file/d/1uMLt6MsfgsB_SYC-sgbjeCsnP0bo8h-O/view?usp=sharing</li>
 </ul>
 
 <h2>Notes</h2>
