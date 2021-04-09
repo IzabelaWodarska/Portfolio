@@ -11,7 +11,6 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
   <li>Trello</li>
   <li>DevTools</li>
   <li>Postman</li>
-  <li>Git&Github</li>
 </ul>
 
 <h2>Other Tools</h2>
@@ -127,7 +126,7 @@ My name is Izabela Wódarska. I'm in my last year of engineering studies and a f
   <li>SQL - operations on table: https://drive.google.com/file/d/1S4gI38hkpJfXrQ4oB7TioKIZaP9_UQjG/view?usp=sharing</li>
   <li>SQL - </li>
   <li>Cherry IT [in progress]</li>
-  <li>University Chatbot mindmap [in progress]</li>
+  <li>University Chatbot mindmap - https://drive.google.com/file/d/1bHBCADrnDoFrKqUKCH3B-WieFf-3sX77/view?usp=sharing</li>
   <li>Postman exercises - https://documenter.getpostman.com/view/14403089/TzCTXjNX I have also trained on Trello REST API</li>
   <li>DevTools exercises - https://drive.google.com/file/d/1uMLt6MsfgsB_SYC-sgbjeCsnP0bo8h-O/view?usp=sharing</li>
 </ul>
